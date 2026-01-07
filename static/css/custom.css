@@ -1,0 +1,16 @@
+/* Cambiar el fondo de la barra superior */
+header.header-wrapper,
+header#header {
+    background-color: #1e1e1e !important; /* gris oscuro */
+}
+
+/* Cambiar color de los enlaces del menú */
+header.header-wrapper a,
+header#header a {
+    color: #ffffff !important;
+}
+
+header.header-wrapper a:hover,
+header#header a:hover {
+    color: #ffd700 !important; /* dorado al pasar el mouse */
+}

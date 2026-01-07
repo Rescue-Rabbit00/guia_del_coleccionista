@@ -1,0 +1,11 @@
+/* Fondo crema para modo claro */
+body {
+  background-color: #FFF8E7 !important; /* color crema */
+}
+
+/* O si prefieres otro tono de crema */
+body {
+  background-color: #FFFEF0 !important; /* crema más claro */
+  /* o */
+  background-color: #FAF0E6 !important; /* lino */
+}

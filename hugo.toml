@@ -1,0 +1,27 @@
+baseURL = "http://localhost:1313/"
+languageCode = "es-es"
+title = "El blog del coleccionista"
+theme = "blowfish"
+
+defaultContentLanguage = "es"
+enableEmoji = true
+
+
+[params]
+  customCSS = ["css/custom.css"]
+
+[menu]
+  [[menu.main]]
+    name = "Inicio"
+    pageRef = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Inicio_2"
+    pageRef = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Introducción"
+    pageRef = "/post/introduccion"
+    weight = 2
