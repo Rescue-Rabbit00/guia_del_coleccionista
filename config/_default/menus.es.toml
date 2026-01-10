@@ -2,46 +2,24 @@
 # El menú principal se muestra en el encabezado en la parte superior de la página.
 
 [[main]]
+  name = "Inicio"
+  pageRef = ""
+  weight = 1
+
+[[main]]
   name = "Blog"
   pageRef = "posts"
   weight = 10
 
 [[main]]
-  name = "Shortcodes"
-  pageRef = "docs/shortcodes"
-  weight = 15
-
-[[main]]
-  name = "Ejemplos"
+  name = "Sobre el blog"
+  pageRef = "sobre-el-blog"
   weight = 20
 
 [[main]]
-  name = "Muestras"
-  parent = "Ejemplos"
-  pageRef = "samples"
-  weight = 16
-
-[[main]]
-  name = "Galería"
-  parent = "Ejemplos"
-  pageRef = "examples"
+  name = "Autor"
+  pageRef = "authors/rescuerabbit"
   weight = 30
-
-[[main]]
-  name = "Recetas"
-  parent = "Ejemplos"
-  pageRef = "guides"
-  weight = 40
-
-[[main]]
-  name = "Usuarios"
-  pageRef = "users"
-  weight = 90
-
-[[main]]
-  name = "Merch"
-  url = "https://www.teepublic.com/user/blowfish-store/t-shirts"
-  weight = 100
 
 [[main]]
   identifier = "twitter"
@@ -49,10 +27,9 @@
   url = "https://twitter.com/Rescue_Rabbit00"
   weight = 200
 
-
 # -- Menú de Pie de Página --
 
- [[footer]]
-   name = "Autor"
-   pageRef = "authors"
-   weight = 20
+[[footer]]
+  name = "Autor"
+  pageRef = "authors/rescuerabbit"
+  weight = 20
