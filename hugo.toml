@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://rescue-rabbit00.github.io/guia_del_coleccionista/"
 languageCode = "es-es"
 title = "El blog del coleccionista"
 theme = "blowfish"
