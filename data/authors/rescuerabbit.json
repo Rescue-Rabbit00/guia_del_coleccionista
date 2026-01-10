@@ -1,0 +1,9 @@
+{
+  "name": "Rescue Rabbit",
+  "image": "img/circular_rabbit.png",
+  "bio": "Blog Creator",
+  "social": [
+    { "twitter": "https://twitter.com/Rescue_Rabbit00" }
+
+  ]
+}

@@ -1,11 +1,55 @@
-/* Fondo crema para modo claro */
-body {
-  background-color: #FFF8E7 !important; /* color crema */
+/* Eliminar las formas decorativas azules de los scripts de background */
+#menu-blur,
+[id*="background-blur"],
+.single_hero_background,
+[class*="background"] {
+  display: none !important;
+  opacity: 0 !important;
 }
 
-/* O si prefieres otro tono de crema */
-body {
-  background-color: #FFFEF0 !important; /* crema más claro */
-  /* o */
-  background-color: #FAF0E6 !important; /* lino */
+/* Eliminar divs con clase relative que contienen las formas */
+div[class*="relative"][class*="flex-col"] > div[class*="fixed"],
+div[class*="relative"][class*="flex-col"] > div[class*="absolute"] {
+  display: none !important;
+}
+
+/* Fondo crema sin decoraciones */
+html, body {
+  background-color: #FFF8E7 !important;
+  background-image: none !important;
+}
+
+body > div,
+main,
+.container {
+  background-color: #FFF8E7 !important;
+  background-image: none !important;
+}
+
+/* Botón gris - MÁS ESPECÍFICO */
+a.px-4,
+.prose a.px-4,
+button.px-4,
+a[class*="bg-primary"] {
+  background-color: #9CA3AF !important;
+  color: white !important;
+}
+
+a.px-4:hover,
+.prose a.px-4:hover,
+button.px-4:hover,
+a[class*="bg-primary"]:hover {
+  background-color: #6B7280 !important;
+}
+
+/* Sobrescribir colores primarios del tema */
+.bg-primary-600,
+.hover\:bg-primary-500,
+.dark\:bg-primary-800 {
+  background-color: #9CA3AF !important;
+}
+
+.bg-primary-600:hover,
+.hover\:bg-primary-500:hover {
+  background-color: #6B7280 !important;
 }

@@ -2,8 +2,8 @@
 # El menú principal se muestra en el encabezado en la parte superior de la página.
 
 [[main]]
-  name = "Documentación"
-  pageRef = "docs"
+  name = "Blog"
+  pageRef = "posts"
   weight = 10
 
 [[main]]

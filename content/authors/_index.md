@@ -1,5 +1,6 @@
 ---
-title: "Los autores de este blog son los siguientes"
+title: "Autores"
+description: "Conoce a los autores del blog"
 ---
 
 

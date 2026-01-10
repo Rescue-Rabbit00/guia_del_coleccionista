@@ -14,3 +14,6 @@ Mucha de la información presentada en este espacio proviene de otras páginas c
 
 Espero que los contenidos que se presenten os parezcan interesantes y que disfrutéis con la misma pasión que yo este Hobby.
 
+{{< button href="/menu-principal/" >}}Menú principal{{< /button >}}
+
+[Ver todos los artículos](/posts/)
