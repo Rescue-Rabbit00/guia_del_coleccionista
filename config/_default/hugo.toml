@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://localhost:1313"
+baseURL = "https://rescuerabbit00.github.io/guia_del_coleccionista/"
 defaultContentLanguage = "es"
 disableLanguages = ["en", "fr", "de", "it", "zh-cn", "ja","pt-pt", "pt-br" ] #to allow translation work requiring shipping to production
 
