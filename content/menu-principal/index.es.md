@@ -6,7 +6,7 @@ description: "Conoce más sobre la Guía del Coleccionista"
 
 ## Bienvenido a la Guía del Coleccionista
 
-Este menú es un recopilatorio de 
+Este menú es un recopilatorio de ff
 
 ![Mi colección](1.jpg)
 
