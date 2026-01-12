@@ -53,3 +53,23 @@ a[class*="bg-primary"]:hover {
 .hover\:bg-primary-500:hover {
   background-color: #6B7280 !important;
 }
+
+/* Eliminar bordes redondeados y estilos en imágenes */
+img {
+  border-radius: 0 !important;
+  box-shadow: none !important;
+}
+
+/* Si quieres mantener el fondo */
+.prose img {
+  background-color: transparent !important;
+  padding: 0 !important;
+}
+
+/* O si la imagen tiene fondo blanco y quieres que se vea */
+article img,
+.prose img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}

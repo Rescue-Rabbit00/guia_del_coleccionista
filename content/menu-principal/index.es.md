@@ -8,8 +8,9 @@ description: "Conoce más sobre la Guía del Coleccionista"
 
 Este menú es un recopilatorio de ff
 
+![Mi colección](image_3.png)
+![Mi colección](image_2.png)
 ![Mi colección](image_1.png)
-
 ## Qué encontrarás aquí
 
 - Guías de coleccionismo
