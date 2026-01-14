@@ -6,12 +6,16 @@ description: "Conoce más sobre la Guía del Coleccionista"
 
 ## Bienvenido a la Guía del Coleccionista
 
-Este menú es un recopilatorio de ff ource changed /menu-principal/index.es.md Web Server is available at http:/ localhost:13guia_del_coleccionista/ (bind address 127.0.0.1) Total in 229 ms
 
-![Mi colección](boosters_og.png)
+{{< figure 
+  src="boosters_og.png" 
+  alt="Mi colección" 
+  caption="Mi colección de boosters"
+>}}
 ![Mi colección](boosters_gx.png)
 ![Mi colección](imagen2.png)
-![Mi colección](image_6.png)
+![Mi colección](image_7.png)
+![Mi colección](image_8.png)
 ## Qué encontrarás aquí
 
 - Guías de coleccionismo
