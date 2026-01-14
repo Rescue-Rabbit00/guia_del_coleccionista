@@ -12,10 +12,56 @@ description: "Conoce más sobre la Guía del Coleccionista"
   alt="Mi colección" 
   caption="Mi colección de boosters"
 >}}
-![Mi colección](boosters_gx.png)
-![Mi colección](imagen2.png)
-![Mi colección](image_7.png)
-![Mi colección](image_8.png)
+{{< figure 
+  src="boosters_gx.png" 
+  alt="Mi colección" 
+  caption="Mi colección de boosters"
+>}}
+{{< figure 
+  src="boosters_gx2.png" 
+  alt="Mi colección" 
+  caption="Mi colección de boosters"
+>}}
+{{< figure 
+  src="boosters_5ds.png" 
+  alt="Mi colección" 
+  caption="Mi colección de boosters"
+>}}
+{{< figure 
+  src="boosters_serie7.png" 
+  alt="Mi colección" 
+  caption="Mi colección de boosters"
+>}}
+
+{{< figure 
+  src="boosters_serie8.png" 
+  alt="Mi colección" 
+  caption="Mi colección de boosters"
+>}}
+
+{{< figure 
+  src="boosters_serie9.png" 
+  alt="Mi colección" 
+  caption="Mi colección de boosters"
+>}}
+
+{{< figure 
+  src="boosters_serie10.png" 
+  alt="Mi colección" 
+  caption="Mi colección de boosters"
+>}}
+
+{{< figure 
+  src="boosters_serie11.png" 
+  alt="Mi colección" 
+  caption="Mi colección de boosters"
+>}}
+
+{{< figure 
+  src="boosters_serie12.png" 
+  alt="Mi colección" 
+  caption="Mi colección de boosters"
+>}}
 ## Qué encontrarás aquí
 
 - Guías de coleccionismo
