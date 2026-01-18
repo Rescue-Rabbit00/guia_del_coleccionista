@@ -9,6 +9,5 @@ La guía del coleccionista espera ser un lugar de referencia tanto para la gente
 
 ### Qué encontrarás aquí
 
-- [Distribución de las rarezas según las generaciones](blog_rarezas)
-
+- [Distribución de las rarezas según las generaciones en occidente]({{< relref "menu-principal/blog_rarezas/_index.md" >}})
 [Ver todos los artículos del blog](/posts/)
