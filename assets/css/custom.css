@@ -73,3 +73,22 @@ article img,
   max-width: 100%;
   height: auto;
 }
+
+/* Hacer el contenido más ancho */
+.prose,
+article .prose,
+.max-w-prose {
+  max-width: 100% !important;
+}
+
+/* O un ancho específico más amplio */
+.prose,
+article .prose {
+  max-width: 1200px !important; /* En lugar de ~65ch que es el default */
+}
+
+/* O usar un porcentaje */
+.prose {
+  max-width: 85% !important;
+  margin: 0 auto;
+}

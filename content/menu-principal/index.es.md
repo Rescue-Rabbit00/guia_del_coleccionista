@@ -1,76 +1,14 @@
 ---
-title: "Sobre este blog"
+title: "Guía del coleccionismo de YuGiOh!"
 date: 2026-01-08
 description: "Conoce más sobre la Guía del Coleccionista"
 ---
 
-## Bienvenido a la Guía del Coleccionista
+La guía del coleccionista espera ser un lugar de referencia tanto para la gente que está dando sus primeros pasos en este hobby, como para aquellos coleccionistas más experimentados. Este menú principal es un índice recopilatorio de los temas principales a tratar en la página web. 
 
 
-{{< figure 
-  src="boosters_og.png" 
-  alt="Mi colección" 
-  caption="Mi colección de boosters"
->}}
-{{< figure 
-  src="boosters_gx.png" 
-  alt="Mi colección" 
-  caption="Mi colección de boosters"
->}}
-{{< figure 
-  src="boosters_gx2.png" 
-  alt="Mi colección" 
-  caption="Mi colección de boosters"
->}}
-{{< figure 
-  src="boosters_5ds.png" 
-  alt="Mi colección" 
-  caption="Mi colección de boosters"
->}}
-{{< figure 
-  src="boosters_serie7.png" 
-  alt="Mi colección" 
-  caption="Mi colección de boosters"
->}}
+### Qué encontrarás aquí
 
-{{< figure 
-  src="boosters_serie8.png" 
-  alt="Mi colección" 
-  caption="Mi colección de boosters"
->}}
-
-{{< figure 
-  src="boosters_serie9.png" 
-  alt="Mi colección" 
-  caption="Mi colección de boosters"
->}}
-
-{{< figure 
-  src="boosters_serie10.png" 
-  alt="Mi colección" 
-  caption="Mi colección de boosters"
->}}
-
-{{< figure 
-  src="boosters_serie11.png" 
-  alt="Mi colección" 
-  caption="Mi colección de boosters"
->}}
-
-{{< figure 
-  src="boosters_serie12.png" 
-  alt="Mi colección" 
-  caption="Mi colección de boosters"
->}}
-## Qué encontrarás aquí
-
-- Guías de coleccionismo
-- Análisis de cartas valiosas
-- Consejos de inversión
-- Reseñas de productos
-
-## Mi historia
-
-Llevo coleccionando desde...
+- [Distribución de las rarezas según las generaciones en occidente](/menu-principal/blog_rarezas/)
 
 [Ver todos los artículos del blog](/posts/)
