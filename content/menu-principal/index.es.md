@@ -9,6 +9,6 @@ La guía del coleccionista espera ser un lugar de referencia tanto para la gente
 
 ### Qué encontrarás aquí
 
-- [Distribución de las rarezas según las generaciones](menu-principal/blog_rarezas)
+- [Distribución de las rarezas según las generaciones](/menu-principal/blog_rarezas)
 
 [Ver todos los artículos del blog](/posts/)
