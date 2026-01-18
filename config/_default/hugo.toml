@@ -4,6 +4,8 @@
 
 theme = "blowfish"
 baseURL = "https://rescuerabbit00.github.io/guia_del_coleccionista/"
+canonifyURLs = true
+relativeURLs = false
 defaultContentLanguage = "es"
 disableLanguages = ["en", "fr", "de", "it", "zh-cn", "ja","pt-pt", "pt-br" ] #to allow translation work requiring shipping to production
 
