@@ -27,6 +27,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/guia_del_coleccionista/menu-principal/</loc>
+    <lastmod>2026-01-08T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/guia_del_coleccionista/categories/gu%C3%ADas/</loc>
     <lastmod>2026-01-08T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
@@ -46,12 +52,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/guia_del_coleccionista/authors/rescuerabbit/</loc>
-    <lastmod>2026-01-08T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/guia_del_coleccionista/menu-principal/</loc>
     <lastmod>2026-01-08T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
