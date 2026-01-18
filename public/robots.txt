@@ -1,3 +1,3 @@
 User-agent: *
-Disallow: /
-Sitemap: http://localhost:1313/guia_del_coleccionista/sitemap.xml
+Allow: /
+Sitemap: https://rescuerabbit00.github.io/guia_del_coleccionista/sitemap.xml
