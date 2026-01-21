@@ -1,4 +1,20 @@
-/* Eliminar las formas decorativas azules de los scripts de background */
+*::before,
+*::after {
+  display: none !important;
+  content: none !important;
+}
+
+/* Excepciones para elementos que SÍ necesitan ::before/::after */
+.icon::before,
+.icon::after,
+code::before,
+code::after,
+blockquote::before,
+blockquote::after,
+li::marker,
+li::before {
+  display: revert !important;
+}
 #menu-blur,
 [id*="background-blur"],
 .single_hero_background,
