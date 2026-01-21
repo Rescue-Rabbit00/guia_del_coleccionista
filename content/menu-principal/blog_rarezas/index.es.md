@@ -8,4 +8,4 @@ El 8 de marzo de 2002 se lanzó en el mercado occidental el primer set coleccion
 
 
 
-[Ver todos los artículos del blog](/posts/)
+[Ver todos los artículos del blog](../posts/)
