@@ -108,3 +108,7 @@ article .prose {
   max-width: 85% !important;
   margin: 0 auto;
 }
+
+.single_hero_background {
+  background-image: none !important;
+}
