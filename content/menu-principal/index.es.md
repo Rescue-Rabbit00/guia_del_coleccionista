@@ -8,7 +8,7 @@ La guía del coleccionista espera ser un lugar de referencia tanto para la gente
 
 
 ### Qué encontrarás aquí
-
+{{< button href="blog_rarezas/" >}}Menú principal{{< /button >}}
 - [Distribución de las rarezas según las generaciones](./blog_rarezas/)
 
 [Ver todos los artículos del blog](/posts/)
