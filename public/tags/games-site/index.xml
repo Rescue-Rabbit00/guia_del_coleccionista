@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Games Site on Guía del coleccionista</title>
-    <link>https://rescuerabbit00.github.io/guia_del_coleccionista/tags/games-site/</link>
+    <link>http://localhost:1313/guia_del_coleccionista/tags/games-site/</link>
     <description>Recent content in Games Site on Guía del coleccionista</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© 2026 Guía del coleccionista</copyright>
-    <atom:link href="https://rescuerabbit00.github.io/guia_del_coleccionista/tags/games-site/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/guia_del_coleccionista/tags/games-site/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>fugugames.com</title>
-      <link>https://rescuerabbit00.github.io/guia_del_coleccionista/users/e2ca3d6494c32151235beabe7567b23d/</link>
+      <link>http://localhost:1313/guia_del_coleccionista/users/e2ca3d6494c32151235beabe7567b23d/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rescuerabbit00.github.io/guia_del_coleccionista/users/e2ca3d6494c32151235beabe7567b23d/</guid>
+      <guid>http://localhost:1313/guia_del_coleccionista/users/e2ca3d6494c32151235beabe7567b23d/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://rescuerabbit00.github.io/guia_del_coleccionista/users/e2ca3d6494c32151235beabe7567b23d/feature.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guia_del_coleccionista/users/e2ca3d6494c32151235beabe7567b23d/feature.webp" />
     </item>
     
   </channel>
