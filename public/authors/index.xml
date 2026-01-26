@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Autores on Guía del coleccionista</title><link>http://localhost:8000/authors/</link><description>Recent content in Autores on Guía del coleccionista</description><generator>Hugo -- gohugo.io</generator><language>es</language><copyright>© 2026 Guía del coleccionista</copyright><lastBuildDate>Thu, 08 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:8000/authors/index.xml" rel="self" type="application/rss+xml"/><item><title>Rescue Rabbit</title><link>http://localhost:8000/authors/rescuerabbit/</link><pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate><guid>http://localhost:8000/authors/rescuerabbit/</guid><description>&lt;h1 class="relative group"&gt;Sobre mí
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Autores on Guía del coleccionista</title><link>http://localhost:1313/guia_del_coleccionista/authors/</link><description>Recent content in Autores on Guía del coleccionista</description><generator>Hugo -- gohugo.io</generator><language>es</language><copyright>© 2026 Guía del coleccionista</copyright><lastBuildDate>Thu, 08 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/guia_del_coleccionista/authors/index.xml" rel="self" type="application/rss+xml"/><item><title>Rescue Rabbit</title><link>http://localhost:1313/guia_del_coleccionista/authors/rescuerabbit/</link><pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate><guid>http://localhost:1313/guia_del_coleccionista/authors/rescuerabbit/</guid><description>&lt;h1 class="relative group"&gt;Sobre mí
  &lt;div id="sobre-mí" class="anchor"&gt;&lt;/div&gt;
  
  &lt;span
@@ -15,8 +15,8 @@
  alt="Sergio"
  width="400"
  height="400"
- src="http://localhost:8000/authors/rescuerabbit/avatar.png"
- srcset="http://localhost:8000/authors/rescuerabbit/avatar.png 800w, http://localhost:8000/authors/rescuerabbit/avatar.png 1280w"
+ src="http://localhost:1313/guia_del_coleccionista/authors/rescuerabbit/avatar.png"
+ srcset="http://localhost:1313/guia_del_coleccionista/authors/rescuerabbit/avatar.png 800w, http://localhost:1313/guia_del_coleccionista/authors/rescuerabbit/avatar.png 1280w"
  sizes="(min-width: 768px) 50vw, 65vw"
- data-zoom-src="http://localhost:8000/authors/rescuerabbit/avatar.png"&gt;&lt;/figure&gt;
+ data-zoom-src="http://localhost:1313/guia_del_coleccionista/authors/rescuerabbit/avatar.png"&gt;&lt;/figure&gt;
 &lt;p&gt;Mi nombre es &lt;strong&gt;Sergio&lt;/strong&gt; y soy el creador de este blog sobre coleccionismo de Yu-Gi-Oh!&lt;/p&gt;</description></item></channel></rss>
