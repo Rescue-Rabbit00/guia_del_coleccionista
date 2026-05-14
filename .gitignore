@@ -1,0 +1,36 @@
+# Hugo — salida y caché (el deploy en CI vuelve a generar public/)
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
+/.hugo_build.lock
+
+# Node (temas o herramientas locales)
+node_modules/
+
+# Entornos y secretos
+.env
+.env.*
+!.env.example
+
+# Logs y temporales
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# SO
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editores / IDE
+.idea/
+*.swp
+*.swo
+*~
+
+# OneDrive / conflictos de sincronización
+*.tmp
+* conflict *
+*conflicted copy*

@@ -112,3 +112,51 @@ article .prose {
 .single_hero_background {
   background-image: none !important;
 }
+
+/* Cambiar el tamaño de la fuente de los captions de las imágenes*/
+figure figcaption {
+  font-size: 1.125rem !important; /* 18px - puedes ajustar este valor */
+  line-height: 1.6 !important;
+  margin-top: 0.75rem !important;
+}
+
+/* Tablas: ancho según contenido (hasta 100%), bloque centrado; celdas centradas */
+article .prose table,
+article table {
+  border-collapse: collapse;
+  width: auto !important;
+  max-width: 100% !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  table-layout: auto;
+  font-variant-numeric: tabular-nums;
+}
+
+article .prose table th,
+article .prose table td,
+article table th,
+article table td {
+  border: 1px solid #c9c2b6;
+  padding: 10px 12px;
+  text-align: center !important;
+  vertical-align: middle;
+}
+
+article .prose table th,
+article table th {
+  background-color: #ede8de;
+  font-weight: bold;
+}
+
+article .prose table tbody tr:nth-child(even),
+article table tbody tr:nth-child(even) {
+  background-color: rgba(0, 0, 0, 0.04);
+}
+
+/* Por si algún layout usa .article-content */
+article .article-content table {
+  width: auto !important;
+  max-width: 100% !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
