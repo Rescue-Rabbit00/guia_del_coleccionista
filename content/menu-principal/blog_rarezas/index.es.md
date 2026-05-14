@@ -14,14 +14,13 @@ Considerando el punto anterior y debido a que las cajas es el formato más habit
 
 ## Serie original
 
-Como ya se ha mencionado en la introducción, el primer sobre LOB (“Legend of the Blue Eyes White Dragon”) salió en 2002, mientrás que la última colección de esta serie AST ("Ancient Sanctuary") vió la luz el 1 de Julio de 2004. La serie original tiene la peculiaridad que 
-
-| Set | Super | Ultra | Secret |
-|-----|-------|-------|--------|
-| LOB | …     | …     | …      |
-| …   | …     | …     | …      |
+Como ya se ha mencionado en la introducción, el primer sobre LOB (“Legend of the Blue Eyes White Dragon”) salió en 2002, mientrás que la última colección de esta serie AST ("Ancient Sanctuary") vió la luz el 1 de Julio de 2004.
 
 
+| Colección | Columna 2 | Columna 3 | Columna 1 | Columna 2 | Columna 3 |
+|-----------|-----------|-----------|-----------|-----------|-----------|
+| LOB    | Dato 2    | Dato 3    | Dato 1    | Dato 2    | Dato 3    |
+| Dato 4    | Dato 5    | Dato 6    | Dato 1    | Dato 2    | Dato 3    |
 
 {{< figure 
   src="boosters_og.png" 
